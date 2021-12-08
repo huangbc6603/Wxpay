@@ -20,7 +20,7 @@ public class Test {
         System.out.println(new BigDecimal("0.3").min(new BigDecimal("0.1")));
         System.out.println(new BigDecimal("0.3").add(new BigDecimal("0.1")));//加
         System.out.println(new BigDecimal("0.3").divide(new BigDecimal("0.1")));//除
-        System.out.println(new BigDecimal("0.3").subtract(new BigDecimal(10)));
+        System.out.println(new BigDecimal("0.3").subtract(new BigDecimal(10)));//减法
 
 
     }
