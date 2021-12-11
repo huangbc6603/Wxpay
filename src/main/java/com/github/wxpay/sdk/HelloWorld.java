@@ -19,7 +19,7 @@ public class HelloWorld {
         hashMap.put("zhang", "sanfeng");
         Set<Map.Entry<String, String>> entries = hashMap.entrySet();
         for (Map.Entry<String, String> entry : entries) {
-            System.out.println(entry.getKey() +":"+ entry.getValue());
+            System.out.println(entry.getKey() + ":" + entry.getValue());
         }
 
         Set<String> keySet = hashMap.keySet();
@@ -38,7 +38,7 @@ public class HelloWorld {
             next.getValue();
         }
 
-        System.out.println("测试代码冲突");
+        System.out.println("test 测试代码冲突");
 
     }
 
