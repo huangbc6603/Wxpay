@@ -38,8 +38,8 @@ public class HelloWorld {
             next.getValue();
         }
 
-        System.out.println("test测试代码冲突！！！");
-        System.out.println("test 冲突");
+        System.out.println("test测试代码冲突");
+        System.out.println("test1 冲突");
         System.out.println("this is master branch");
 
     }
