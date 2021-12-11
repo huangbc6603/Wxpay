@@ -19,7 +19,7 @@ public class HelloWorld {
         hashMap.put("zhang", "sanfeng");
         Set<Map.Entry<String, String>> entries = hashMap.entrySet();
         for (Map.Entry<String, String> entry : entries) {
-            System.out.println(entry.getKey() +":"+ entry.getValue());
+            System.out.println(entry.getKey() + ":" + entry.getValue());
         }
 
         Set<String> keySet = hashMap.keySet();
@@ -39,6 +39,8 @@ public class HelloWorld {
         }
 
         System.out.println("test测试代码冲突！！！");
+
+        System.out.println("this is master branch");
 
     }
 
