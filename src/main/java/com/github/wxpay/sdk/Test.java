@@ -10,6 +10,7 @@ import java.math.BigDecimal;
 public class Test {
 
     public static void main(String[] args) {
+//        TestThread thread = new TestThread();
 
         System.out.println(0.3 - 0.1);
         System.out.println(0.2 + 0.1);
