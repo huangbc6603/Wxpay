@@ -4,4 +4,11 @@ package com.github.wxpay.sdk;
  *@author  huangbc
  *@date  2021/12/13 8:37
  */public class ConcurrentHashMapTest {
+
+    public static void main(String[] args) {
+
+        System.out.println("制造冲突");
+
+    }
+
 }
