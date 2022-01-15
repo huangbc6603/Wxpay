@@ -9,6 +9,8 @@ package com.github.wxpay.sdk;
 
         System.out.println("制造冲突");
 
+        System.out.println("她疯了！！！！！");
+
     }
 
 }
