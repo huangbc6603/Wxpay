@@ -1,0 +1,48 @@
+
+设置步骤  1、设置时间  2、分区设置 3、网络设置（打开）
+
+linux下 ifconfig不能使用或不能联网,vi /etc/sysconfig/network-scripts/ifcfg   设置后ping www.baidu.com
+
+修改完后需要重启网卡（命令：service network restart）
+
+没有 ifconfig 的话安装 net-tools package  执行：[root@localhost sbin]# sudo yum install net-tools
+
+linux 设置固定ip
+1、BOOTPROTO=static
+2、onboot=yes
+3、在最后加上几行，IP地址、子网掩码、网关、dns服务器
+IPADDR=192.168.1.160
+NETMASK=255.255.255.0
+GATEWAY=192.168.1.1
+DNS1=119.29.29.29
+DNS2=8.8.8.8
+重启网络服务 service network restart
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
