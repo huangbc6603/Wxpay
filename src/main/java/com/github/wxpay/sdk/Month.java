@@ -2,8 +2,6 @@ package com.github.wxpay.sdk;
 
 /**
  * @author huangbc
- * @version 1.0
- * @date 2021/12/11 7:49
  */
 public class Month {
     //周一到周日

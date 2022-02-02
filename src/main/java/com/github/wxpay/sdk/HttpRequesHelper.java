@@ -9,8 +9,6 @@ import java.util.Map;
 
 /**
  * @author huangbc
- * @version 1.0
- * @date 2021/12/10 9:04
  */
 public class HttpRequesHelper {
     public static final String DEF_CHATSET = "UTF-8";

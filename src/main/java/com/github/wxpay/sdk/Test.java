@@ -4,8 +4,6 @@ import java.math.BigDecimal;
 
 /**
  * @author huangbc
- * @version 1.0
- * @date 2021/12/7 18:54
  */
 public class Test {
 

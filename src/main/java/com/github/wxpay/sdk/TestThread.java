@@ -4,8 +4,6 @@ import org.omg.CORBA.PUBLIC_MEMBER;
 
 /**
  * @author huangbc
- * @version 1.0
- * @date 2021/12/12 8:12
  */
 public class TestThread implements Runnable {
     private String name;

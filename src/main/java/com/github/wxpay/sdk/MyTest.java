@@ -6,8 +6,6 @@ import java.util.Set;
 
 /**
  * @author huangbc
- * @version 1.0
- * @date 2021/12/11 10:18
  */
 public class MyTest {
     private static class Person{

@@ -2,8 +2,6 @@ package com.github.wxpay.sdk;
 
 /**
  * @author huangbc
- * @version 1.0
- * @date 2021/12/12 8:31
  */
 public class MyThread extends Thread{
 
