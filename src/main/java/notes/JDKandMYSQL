@@ -56,7 +56,7 @@ mysql安装过程
     -A FORWARD -j REJECT --reject-with icmp-host-prohibited
     COMMIT
 
-  4、
+  4、mysql user:root  password:123456  端口3307
 
 
 
