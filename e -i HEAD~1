@@ -1,0 +1,371 @@
+[33mcommit 26ab611619a6ff49669e2ceb7623dd967e051d9c[m[33m ([m[1;36mHEAD -> [m[1;32mtest[m[33m)[m
+Author: Derek-huang <huangbc_6603@163.com>
+Date:   Sat Apr 2 10:18:29 2022 +0800
+
+    commit3
+
+[33mcommit 13d65496a89572992690bdf21ac95fc131ad2a9a[m
+Author: Derek-huang <huangbc_6603@163.com>
+Date:   Sat Apr 2 10:16:45 2022 +0800
+
+    commit2
+
+[33mcommit 34d7c6c74099f06ae076741ff4ad5632e8062a78[m[33m ([m[1;31morigin/test[m[33m)[m
+Merge: bcbcd62 d43eb7e
+Author: Derek-huang <huangbc_6603@163.com>
+Date:   Sat Apr 2 09:58:11 2022 +0800
+
+    Merge branch 'dev' into test
+    
+    # Conflicts:
+    #       src/main/java/com/github/wxpay/sdk/ConcurrentHashMapTest.java
+
+[33mcommit d43eb7ee8736527f08c9108e141d6ae53700c234[m[33m ([m[1;31morigin/dev[m[33m, [m[1;32mdev[m[33m)[m
+Author: Derek-huang <huangbc_6603@163.com>
+Date:   Fri Apr 1 19:34:39 2022 +0800
+
+    commit2
+
+[33mcommit 4e5730d9ec399cc1d1f0fdc70bbee67746655ac0[m
+Author: Derek-huang <huangbc_6603@163.com>
+Date:   Fri Apr 1 19:33:19 2022 +0800
+
+    commit1
+
+[33mcommit 2cf23066beff13c473cf2edfa6545ab2c1096f00[m
+Author: Derek-huang <huangbc_6603@163.com>
+Date:   Fri Apr 1 19:32:04 2022 +0800
+
+    commit1
+
+[33mcommit bcbcd629785de67e8c4506b9b2084c774a9ff78d[m
+Author: huangbc <huangbc_6603@163.com>
+Date:   Sat Feb 19 18:36:32 2022 +0800
+
+    commit mysql
+
+[33mcommit 15b76a6c42cf288ee38acb158c3ca2a5822763e8[m
+Author: huangbc <huangbc_6603@163.com>
+Date:   Wed Feb 2 19:55:44 2022 +0800
+
+    commit mysql
+
+[33mcommit 6c80442560b49b52dc8a7c844411a86c3267054f[m
+Author: huangbc <huangbc_6603@163.com>
+Date:   Wed Feb 2 11:42:01 2022 +0800
+
+    commit move
+
+[33mcommit b87c33f67c16cfc7b09ca320ea75ad065f5bc148[m
+Author: huangbc <huangbc_6603@163.com>
+Date:   Wed Feb 2 11:39:43 2022 +0800
+
+    commit 虚拟机设置
+
+[33mcommit 6ab8eb3ac7c26333c63c00aa67f1fc369dcfce10[m
+Author: huangbc <huangbc_6603@163.com>
+Date:   Wed Feb 2 09:27:17 2022 +0800
+
+    commit 日期
+
+[33mcommit f940ec4dd2c4ff5f1a653cd692f51f006ebb05aa[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: huangbc <huangbc_6603@163.com>
+Date:   Sat Jan 15 21:29:23 2022 +0800
+
+    commit 提交代码
+
+[33mcommit cad4b4a4f9497d65af2008e474f1bb35ae0ae0d1[m
+Merge: 441cfa6 cc27ca8
+Author: huangbc <huangbc_6603@163.com>
+Date:   Sat Jan 15 17:53:14 2022 +0800
+
+    Merge remote-tracking branch 'origin/master' into test
+    
+    # Conflicts:
+    #       src/main/java/com/github/wxpay/sdk/ConcurrentHashMapTest.java
+
+[33mcommit cc27ca886fda9ccb6c77bc2110f12cb744ae4926[m
+Author: huangbc <huangbc_6603@163.com>
+Date:   Sat Jan 15 17:52:06 2022 +0800
+
+    delete 制造冲突
+
+[33mcommit 441cfa6ffbefc5c900052a07f3b524866f08f258[m
+Author: huangbc <huangbc_6603@163.com>
+Date:   Sat Jan 15 17:37:51 2022 +0800
+
+    delete AAAA
+
+[33mcommit 9e7f0eb3edcf29a1f0d671387dd36606a604ab35[m
+Author: huangbc <huangbc_6603@163.com>
+Date:   Sat Jan 15 17:37:51 2022 +0800
+
+    delete AAAA
+
+[33mcommit 4b796a4393365ad5c5207b7a274f3ca53b1aaa2c[m
+Author: huangbc <huangbc_6603@163.com>
+Date:   Sat Jan 15 17:36:01 2022 +0800
+
+    add AAAA
+
+[33mcommit bf707c59a548d67fc9d6ec57819efa8f2fdeb26f[m
+Author: huangbc <huangbc_6603@163.com>
+Date:   Sat Jan 15 17:25:41 2022 +0800
+
+    add 她疯了
+
+[33mcommit 31497a44f13db179f6a80da50116159333083664[m
+Merge: cc2365a 5ed5d87
+Author: huangbc <huangbc_6603@163.com>
+Date:   Sat Jan 15 17:14:22 2022 +0800
+
+    Merge branch 'dev'
+
+[33mcommit 5ed5d873e44d9f01260092ed1919ad39a062ead3[m
+Author: huangbc <huangbc_6603@163.com>
+Date:   Sat Jan 15 17:13:29 2022 +0800
+
+    add apollo
+
+[33mcommit cc2365a601c7b2e29f4b1143337bdf62e0b4b49a[m
+Merge: bd28c48 2157ca1
+Author: huangbc <huangbc_6603@163.com>
+Date:   Sat Jan 15 17:07:20 2022 +0800
+
+    Merge remote-tracking branch 'origin/test'
+    
+    # Conflicts:
+    #       src/main/java/com/github/wxpay/sdk/ConcurrentHashMapTest.java
+
+[33mcommit 2157ca164d0ab428b8585b1a6775f197999167a3[m
+Author: huangbc <huangbc_6603@163.com>
+Date:   Sat Jan 15 17:06:22 2022 +0800
+
+    commit ConcurrentHashMapTest
+
+[33mcommit bd28c481e569dc87cf499731734d6cf076be4edc[m
+Author: huangbc <huangbc_6603@163.com>
+Date:   Sat Jan 15 17:02:16 2022 +0800
+
+    commit ConcurrentHashMapTest
+
+[33mcommit e2b91182d68e6d584ecae57aca41ee8e6e2d507d[m
+Author: huangbc <huangbc_6603@163.com>
+Date:   Sun Dec 19 08:44:39 2021 +0800
+
+    git常用命令
+
+[33mcommit 182c40424402e66115e80f51ff9f317d2dec404f[m
+Author: huangbc <huangbc_6603@163.com>
+Date:   Sun Dec 19 07:53:15 2021 +0800
+
+    add UUiD
+
+[33mcommit 38e7e5b170c843329361ef035522dd9ed8873987[m
+Author: huangbc <huangbc_6603@163.com>
+Date:   Sun Dec 19 07:21:18 2021 +0800
+
+    add concurrentHashMap and add maven plugin
+
+[33mcommit d75c8e62f9ea0e5e92f89d7c9d0cb955a09e70bd[m
+Author: huangbc <huangbc_6603@163.com>
+Date:   Sun Dec 12 10:40:49 2021 +0800
+
+    threadTest
+
+[33mcommit d653ae44926b5f38cc8cd24f943501834dcd5ce0[m
+Merge: 81eac85 938175f
+Author: huangbc <huangbc_6603@163.com>
+Date:   Sat Dec 11 17:51:45 2021 +0800
+
+    Merge branch 'test1'
+    
+    # Conflicts:
+    #       src/main/java/com/github/wxpay/sdk/HelloWorld.java
+
+[33mcommit 81eac85305fddb16652d950277c029448abd9b56[m
+Author: huangbc <huangbc_6603@163.com>
+Date:   Sat Dec 11 17:49:26 2021 +0800
+
+    test 冲突
+
+[33mcommit 938175f471caa9d89e5dd60e342667fd502b8760[m
+Author: huangbc <huangbc_6603@163.com>
+Date:   Sat Dec 11 17:48:44 2021 +0800
+
+    test1 冲突
+
+[33mcommit fe1b0bf682c556011915289d0f2aca3ab40291af[m
+Merge: 56aae0f 35d4cb3
+Author: huangbc <huangbc_6603@163.com>
+Date:   Sat Dec 11 17:26:12 2021 +0800
+
+    Merge branch 'master' of https://github.com/huangbc6603/Wxpay into test1
+    
+     Conflicts:
+    	src/main/java/com/github/wxpay/sdk/HelloWorld.java
+
+[33mcommit 6e2d392ab89413ff87fea6bf5311aa4bb97530bb[m
+Merge: ecf1695 35d4cb3
+Author: huangbc <huangbc_6603@163.com>
+Date:   Sat Dec 11 17:24:38 2021 +0800
+
+    Merge branch 'master' of https://github.com/huangbc6603/Wxpay into test
+
+[33mcommit 35d4cb328a7b054606d29e5b7d88ac72d670d63f[m
+Author: huangbc <huangbc_6603@163.com>
+Date:   Sat Dec 11 17:15:21 2021 +0800
+
+    this is master branch
+
+[33mcommit 56aae0f676d5269e9b14cedbbf016bfc48b2f8ef[m
+Author: huangbc <huangbc_6603@163.com>
+Date:   Sat Dec 11 16:42:54 2021 +0800
+
+    ！！！！test测试代码冲突
+
+[33mcommit ecf1695356166073ed3db637243c10af8b32a5f2[m
+Author: huangbc <huangbc_6603@163.com>
+Date:   Sat Dec 11 16:42:05 2021 +0800
+
+    test测试代码冲突！！！！
+
+[33mcommit 964a1bffc13c2f6a7c43e8715e3213c4a22d72db[m
+Merge: c03554e 3f6d96b
+Author: huangbc <huangbc_6603@163.com>
+Date:   Sat Dec 11 16:39:11 2021 +0800
+
+    Merge branch 'test'
+    
+    # Conflicts:
+    #       src/main/java/com/github/wxpay/sdk/HelloWorld.java
+
+[33mcommit 3f6d96b2e20fb097c1aab0ea44d0583e34c677fd[m
+Author: huangbc <huangbc_6603@163.com>
+Date:   Sat Dec 11 16:37:08 2021 +0800
+
+    test测试代码冲突
+
+[33mcommit c03554eb1f2d2e31882e908b4d356a292f51fcd9[m
+Merge: 07e9a41 42a102b
+Author: huangbc <huangbc_6603@163.com>
+Date:   Sat Dec 11 16:35:25 2021 +0800
+
+    Merge branch 'test1'
+    
+    # Conflicts:
+    #       src/main/java/com/github/wxpay/sdk/HelloWorld.java
+
+[33mcommit 42a102b5a3e54a951f01abb792c3f7c19af23941[m
+Author: huangbc <huangbc_6603@163.com>
+Date:   Sat Dec 11 16:29:23 2021 +0800
+
+    test1测试代码冲突
+
+[33mcommit 775ef7fce073799f4b1b0c5222bd0e16a8b281db[m
+Merge: 356e75b 70db9d8
+Author: huangbc <huangbc_6603@163.com>
+Date:   Sat Dec 11 16:26:58 2021 +0800
+
+    Merge branch 'test1' into test
+    
+    # Conflicts:
+    #       src/main/java/com/github/wxpay/sdk/HelloWorld.java
+
+[33mcommit 07e9a41d17d5c488493db013c9d8795112d9d43a[m
+Author: huangbc <huangbc_6603@163.com>
+Date:   Sat Dec 11 15:40:59 2021 +0800
+
+    测试代码冲突！！！！
+
+[33mcommit ef8c3ca020aa17322dfc9278479516d45fee21bf[m
+Author: huangbc <huangbc_6603@163.com>
+Date:   Sat Dec 11 15:20:23 2021 +0800
+
+    测试代码冲突！
+
+[33mcommit 233b7defcf929618ec82c5fc8761ab9eb090e557[m
+Merge: 0768487 356e75b
+Author: huangbc <huangbc_6603@163.com>
+Date:   Sat Dec 11 15:43:30 2021 +0800
+
+    Merge branch 'test'
+    
+    # Conflicts:
+    #       src/main/java/com/github/wxpay/sdk/HelloWorld.java
+
+[33mcommit 356e75b2310194c13b23e26a637b2175b350384d[m
+Author: huangbc <huangbc_6603@163.com>
+Date:   Sat Dec 11 15:40:59 2021 +0800
+
+    测试代码冲突！！！！
+
+[33mcommit 0768487f2230f5fb3574329f23b931bad7ea85e0[m
+Merge: 70db9d8 1dcdd6f
+Author: huangbc <huangbc_6603@163.com>
+Date:   Sat Dec 11 15:34:38 2021 +0800
+
+    Merge branch 'test'
+    
+    # Conflicts:
+    #       src/main/java/com/github/wxpay/sdk/HelloWorld.java
+
+[33mcommit 1dcdd6f787bb3b36f8cfd6bbf0293f0f58373050[m
+Author: huangbc <huangbc_6603@163.com>
+Date:   Sat Dec 11 15:32:25 2021 +0800
+
+    测试代码冲突！
+
+[33mcommit 56853807797bdf01a128d8432fccd8fcf9885975[m
+Author: huangbc <huangbc_6603@163.com>
+Date:   Sat Dec 11 15:20:23 2021 +0800
+
+    测试代码冲突！
+
+[33mcommit 70db9d881bc0e6e320cde869872009d1dcdf522a[m
+Author: huangbc <huangbc_6603@163.com>
+Date:   Sat Dec 11 15:16:28 2021 +0800
+
+    测试代码冲突
+
+[33mcommit c09593e12a654b37ed60a15f833ae24ba543f5f6[m
+Author: huangbc <huangbc_6603@163.com>
+Date:   Sat Dec 11 13:29:30 2021 +0800
+
+    遍历map
+
+[33mcommit 0524c8a12d23fc7c7e290487a48c1ef577347fa5[m
+Author: huangbc <huangbc_6603@163.com>
+Date:   Sat Dec 11 12:30:36 2021 +0800
+
+    overwirte  heshcode And equals
+
+[33mcommit 4437405b12ef3bbb0b596b52ff790d5b5d42947a[m
+Author: huangbc <huangbc_6603@163.com>
+Date:   Fri Dec 10 09:07:58 2021 +0800
+
+    jdk原生HttpRequest，无第三方侵入
+
+[33mcommit d30e5d2a0ec53b87df24fd5bf111ced4d2dcf655[m
+Author: huangbc <huangbc_6603@163.com>
+Date:   Wed Dec 8 12:23:20 2021 +0800
+
+    加减乘除
+
+[33mcommit 68fa60df5fd64b8879dbc0c885f816db9672d702[m
+Author: huangbc <huangbc_6603@163.com>
+Date:   Wed Dec 8 11:57:43 2021 +0800
+
+    。。
+
+[33mcommit 37df0c47e98c55f64c9feff4d5ed2f0725486a71[m
+Author: huangbc <huangbc_6603@163.com>
+Date:   Wed Dec 8 11:48:37 2021 +0800
+
+    减法
+
+[33mcommit 18c7faf0230c9b96b40d847ca9d274cbc1399464[m
+Author: huangbc <huangbc_6603@163.com>
+Date:   Wed Dec 8 10:47:32 2021 +0800
+
+    wxpay_demo提交github...Test
