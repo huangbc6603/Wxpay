@@ -23,4 +23,6 @@ $ git config user.email
    git回退某个版本
    1、git log
    2、git reset --hard 139dcfaa558e3276b30b6b2e5cbbb9c00bbdca96
-   git push -f -u origin master 
+   git push -f -u origin master
+
+   git charry-pick commitid  将某次提交合并到某分支
